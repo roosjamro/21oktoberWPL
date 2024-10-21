@@ -31,6 +31,8 @@ namespace _21oktober
             {
                 InfoTextBlock.Text = "U wordt ingelogd.";
             }
+
+           
         }
 
         private void LogOffButton_Click(object sender, RoutedEventArgs e)
