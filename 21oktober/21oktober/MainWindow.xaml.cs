@@ -31,6 +31,8 @@ namespace _21oktober
             {
                 InfoTextBlock.Text = "You're logged in now!.";
             }
+
+           
         }
 
         private void LogOffButton_Click(object sender, RoutedEventArgs e)
