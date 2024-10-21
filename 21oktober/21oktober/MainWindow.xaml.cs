@@ -29,7 +29,7 @@ namespace _21oktober
         {
             if (NameTextBox.Text.Equals("admin") && PasswordTextBox.Text.Equals("admin"))
             {
-                InfoTextBlock.Text = "U wordt ingelogd.";
+                InfoTextBlock.Text = "You're logged in now!.";
             }
 
            
